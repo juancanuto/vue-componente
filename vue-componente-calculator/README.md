@@ -1,4 +1,4 @@
-# teste
+# vue-componente-calculator
 
 ## Project setup
 ```
